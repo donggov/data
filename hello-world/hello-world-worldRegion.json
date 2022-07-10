@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "ALB",
+    "name": "알바니아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "AFG",
+    "name": "아프가니스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "BOL",
+    "name": "볼리비아",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "BHS",
+    "name": "바하마 ",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "AUS",
+    "name": "오스트레일리아",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "AGO",
+    "name": "앙골라",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ARE",
+    "name": "아랍에미리트",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ARM",
+    "name": "아르메니아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ATA",
+    "name": "남극",
+    "groupId": "AN",
+    "groupName": "남극"
+  },
+  {
+    "id": "ATF",
+    "name": "프랑스령 남방 및 남극",
+    "groupId": "AN",
+    "groupName": "남극"
+  },
+  {
+    "id": "AUT",
+    "name": "오스트리아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "AZE",
+    "name": "아제르바이잔",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "BDI",
+    "name": "부룬디",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "BEL",
+    "name": "벨기에 ",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "BEN",
+    "name": "베냉",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "BFA",
+    "name": "부르키나 파소",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "BGD",
+    "name": "방글라데시",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "BGR",
+    "name": "불가리아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "BIH",
+    "name": "보스니아 헤르체고비나",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "BLR",
+    "name": "벨라루스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "BLZ",
+    "name": "벨리즈",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "BRA",
+    "name": "브라질",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "BRN",
+    "name": "브루나이",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "BTN",
+    "name": "부탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "BWA",
+    "name": "보츠와나",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "CAF",
+    "name": "중앙아프리카 공화국",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "CAN",
+    "name": "캐나다",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "CHE",
+    "name": "스위스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "CHL",
+    "name": "칠레",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "CHN",
+    "name": "중국",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "CIV",
+    "name": "코트디부아르",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "CMR",
+    "name": "카메룬",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "COD",
+    "name": "콩고 민주 공화국",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "COG",
+    "name": "콩고 공화국",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "COL",
+    "name": "콜롬비아",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "CRI",
+    "name": "코스타리카",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "CUB",
+    "name": "쿠바",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "-99",
+    "name": "북키프로스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "CYP",
+    "name": "키프로스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "CZE",
+    "name": "체코",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "DEU",
+    "name": "독일",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "DJI",
+    "name": "지부티",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "DNK",
+    "name": "덴마크",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "DOM",
+    "name": "도미니카 공화국",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "DZA",
+    "name": "알제리",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ECU",
+    "name": "에콰도르",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "EGY",
+    "name": "이집트",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ERI",
+    "name": "에리트레아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ESP",
+    "name": "스페인",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "EST",
+    "name": "Estonia",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "ETH",
+    "name": "에스토니아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "FIN",
+    "name": "핀란드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "FJI",
+    "name": "피지",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "FLK",
+    "name": "포클랜드 제도(말비나스 군도)",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "FRA",
+    "name": "프랑스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "GAB",
+    "name": "가봉",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GBR",
+    "name": "잉글랜드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "GEO",
+    "name": "조지아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "GHA",
+    "name": "가나",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GIN",
+    "name": "기니",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GMB",
+    "name": "감비아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GNB",
+    "name": "기니비사우",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GNQ",
+    "name": "적도 기니",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "GRC",
+    "name": "그리스",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "GRL",
+    "name": "그린란드",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "GTM",
+    "name": "과테말라",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "GUY",
+    "name": "가이아나",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "HND",
+    "name": "온두라스",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "HRV",
+    "name": "크로아티아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "HTI",
+    "name": "아이티",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "HUN",
+    "name": "헝가리",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "IDN",
+    "name": "인도네시아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "IND",
+    "name": "인도",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "IRL",
+    "name": "아일랜드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "IRN",
+    "name": "이란",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "IRQ",
+    "name": "이라크",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ISL",
+    "name": "아이슬란드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "ISR",
+    "name": "이스라엘",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ITA",
+    "name": "이탈리아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "JAM",
+    "name": "자메이카",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "JOR",
+    "name": "조르단",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "JPN",
+    "name": "일본",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "KAZ",
+    "name": "카자흐스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "KEN",
+    "name": "케냐",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "KGZ",
+    "name": "키르기스스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "KHM",
+    "name": "캄보디아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "KOR",
+    "name": "대한민국",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "OSA",
+    "name": "코소보",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "KWT",
+    "name": "쿠웨이트",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "LAO",
+    "name": "라오스",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "LBN",
+    "name": "레바논",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "LBR",
+    "name": "라이베리아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "LBY",
+    "name": "리비아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "LKA",
+    "name": "스리랑카",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "LSO",
+    "name": "레소토",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "LTU",
+    "name": "리투아니아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "LUX",
+    "name": "룩셈부르크",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "LVA",
+    "name": "라트비아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "MAR",
+    "name": "모로코",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MDA",
+    "name": "몰도바",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "MDG",
+    "name": "마다가스카르",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MEX",
+    "name": "멕시코",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "MKD",
+    "name": "마케도니아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "MLI",
+    "name": "말리",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MMR",
+    "name": "미얀마(버마)",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "MNE",
+    "name": "몬테네그로",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "MNG",
+    "name": "몽골",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "MOZ",
+    "name": "모잠비크",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MRT",
+    "name": "모리타니",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MWI",
+    "name": "말라위",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "MYS",
+    "name": "말레이시아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "NAM",
+    "name": "나미비아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "NCL",
+    "name": "누벨칼레도니",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "NER",
+    "name": "니제르",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "NGA",
+    "name": "나이지리아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "NIC",
+    "name": "니카라과",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "NLD",
+    "name": "네덜란드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "NOR",
+    "name": "노르웨이",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "NPL",
+    "name": "네팔",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "NZL",
+    "name": "뉴질랜드",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "OMN",
+    "name": "오만",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "PAK",
+    "name": "파키스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "PAN",
+    "name": "파나마",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "PER",
+    "name": "페루",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "PHL",
+    "name": "필리핀",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "PNG",
+    "name": "파푸아뉴기니",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "POL",
+    "name": "폴란드",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "PRI",
+    "name": "푸에르토리코",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "PRK",
+    "name": "조선민주주의인민공화국",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "PRT",
+    "name": "포르투갈",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "PRY",
+    "name": "파라과이",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "QAT",
+    "name": "카타르",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ROU",
+    "name": "루마니아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "RUS",
+    "name": "러시아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "RWA",
+    "name": "르완다",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ESH",
+    "name": "서사하라",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SAU",
+    "name": "사우디아라비아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "SDN",
+    "name": "수단",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SDS",
+    "name": "남수단",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SEN",
+    "name": "세네갈",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SLB",
+    "name": "솔로몬 제도",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "SLE",
+    "name": "시에라리온",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SLV",
+    "name": "엘살바도르",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "ABV",
+    "name": "소말릴란드",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SOM",
+    "name": "소말리아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SRB",
+    "name": "세르비아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "SUR",
+    "name": "수리남",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "SVK",
+    "name": "슬로바키아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "SVN",
+    "name": "슬로베니아",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "SWE",
+    "name": "스웨덴",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "SWZ",
+    "name": "에스와티니",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "SYR",
+    "name": "시리아",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TCD",
+    "name": "차드",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "TGO",
+    "name": "토고",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "THA",
+    "name": "태국",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TJK",
+    "name": "타지키스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TKM",
+    "name": "투르크메니스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TLS",
+    "name": "동티모르",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "TTO",
+    "name": "트리니다드 토바고",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "TUN",
+    "name": "튀니지",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "TUR",
+    "name": "튀르키예(터키)",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TWN",
+    "name": "대만",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "TZA",
+    "name": "탄자니아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "UGA",
+    "name": "우간다",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "UKR",
+    "name": "우크라이나",
+    "groupId": "EU",
+    "groupName": "유럽"
+  },
+  {
+    "id": "URY",
+    "name": "우루과이",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "USA",
+    "name": "미국",
+    "groupId": "NA",
+    "groupName": "북아메리카"
+  },
+  {
+    "id": "UZB",
+    "name": "우즈베키스탄",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "VEN",
+    "name": "베네수엘라",
+    "groupId": "SA",
+    "groupName": "남아메리카"
+  },
+  {
+    "id": "VNM",
+    "name": "베트남",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "VUT",
+    "name": "바누아투",
+    "groupId": "OC",
+    "groupName": "오세아니아"
+  },
+  {
+    "id": "PSE",
+    "name": "웨스트 뱅크",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "YEM",
+    "name": "예멘",
+    "groupId": "AS",
+    "groupName": "아시아"
+  },
+  {
+    "id": "ZAF",
+    "name": "남아프리카 공화국",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ZMB",
+    "name": "잠비아",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  },
+  {
+    "id": "ZWE",
+    "name": "짐바브웨",
+    "groupId": "AF",
+    "groupName": "아프리카"
+  }
+]

@@ -1,0 +1,2512 @@
+[
+  {
+    "id": "39010",
+    "name": "제주시",
+    "nameEn": "Jeju-si",
+    "baseYear": "2012",
+    "groupId": "제주특별자치도",
+    "groupName": "제주특별자치도",
+    "placeName": "제주시",
+    "type": "🏝"
+  },
+  {
+    "id": "39020",
+    "name": "서귀포시",
+    "nameEn": "Seogwipo-si",
+    "baseYear": "2012",
+    "groupId": "제주특별자치도",
+    "groupName": "제주특별자치도",
+    "placeName": "서귀포시",
+    "type": "🏝"
+  },
+  {
+    "id": "11240",
+    "name": "송파구",
+    "nameEn": "Songpa-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "롯데월드",
+    "type": "🎠"
+  },
+  {
+    "id": "21090",
+    "name": "해운대구",
+    "nameEn": "Haeundae-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "해운대",
+    "type": "🏖"
+  },
+  {
+    "id": "38400",
+    "name": "합천군",
+    "nameEn": "Hapcheon-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "합천군",
+    "type": ""
+  },
+  {
+    "id": "38390",
+    "name": "거창군",
+    "nameEn": "Geochang-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "거창군",
+    "type": ""
+  },
+  {
+    "id": "38380",
+    "name": "함양군",
+    "nameEn": "Hamyang-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "함양군",
+    "type": ""
+  },
+  {
+    "id": "38370",
+    "name": "산청군",
+    "nameEn": "Sancheong-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "산청군",
+    "type": ""
+  },
+  {
+    "id": "38360",
+    "name": "하동군",
+    "nameEn": "Hadong-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "하동군",
+    "type": ""
+  },
+  {
+    "id": "38350",
+    "name": "남해군",
+    "nameEn": "Namhae-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "남해군",
+    "type": ""
+  },
+  {
+    "id": "38340",
+    "name": "고성군",
+    "nameEn": "Goseong-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "고성군",
+    "type": ""
+  },
+  {
+    "id": "38330",
+    "name": "창녕군",
+    "nameEn": "Changnyeong-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "창녕군",
+    "type": ""
+  },
+  {
+    "id": "38320",
+    "name": "함안군",
+    "nameEn": "Haman-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "함안군",
+    "type": ""
+  },
+  {
+    "id": "38310",
+    "name": "의령군",
+    "nameEn": "Uiryeong-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "의령군",
+    "type": ""
+  },
+  {
+    "id": "38115",
+    "name": "진해구",
+    "nameEn": "Jinhaegu",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "진해구",
+    "type": ""
+  },
+  {
+    "id": "38114",
+    "name": "마산회원구",
+    "nameEn": "Masanhoewongu",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "마산회원구",
+    "type": ""
+  },
+  {
+    "id": "38113",
+    "name": "마산합포구",
+    "nameEn": "Masanhappogu",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "마산합포구",
+    "type": ""
+  },
+  {
+    "id": "38112",
+    "name": "성산구",
+    "nameEn": "Seongsangu",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "성산구",
+    "type": ""
+  },
+  {
+    "id": "38111",
+    "name": "의창구",
+    "nameEn": "Uichanggu",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "의창구",
+    "type": ""
+  },
+  {
+    "id": "38100",
+    "name": "양산시",
+    "nameEn": "Yangsan-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "양산시",
+    "type": ""
+  },
+  {
+    "id": "38090",
+    "name": "거제시",
+    "nameEn": "Geoje-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "거제시",
+    "type": ""
+  },
+  {
+    "id": "38080",
+    "name": "밀양시",
+    "nameEn": "Miryang-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "밀양시",
+    "type": ""
+  },
+  {
+    "id": "38070",
+    "name": "김해시",
+    "nameEn": "Gimhae-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "김해시",
+    "type": ""
+  },
+  {
+    "id": "38060",
+    "name": "사천시",
+    "nameEn": "Sacheon-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "사천시",
+    "type": ""
+  },
+  {
+    "id": "38050",
+    "name": "통영시",
+    "nameEn": "Tongyeong-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "통영시",
+    "type": ""
+  },
+  {
+    "id": "38030",
+    "name": "진주시",
+    "nameEn": "Jinju-si",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "진주시",
+    "type": ""
+  },
+  {
+    "id": "37430",
+    "name": "울릉군",
+    "nameEn": "Ulleung-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "울릉군",
+    "type": ""
+  },
+  {
+    "id": "37420",
+    "name": "울진군",
+    "nameEn": "Uljin-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "울진군",
+    "type": ""
+  },
+  {
+    "id": "37410",
+    "name": "봉화군",
+    "nameEn": "Bonghwa-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "봉화군",
+    "type": ""
+  },
+  {
+    "id": "37400",
+    "name": "예천군",
+    "nameEn": "Yecheon-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "예천군",
+    "type": ""
+  },
+  {
+    "id": "37390",
+    "name": "칠곡군",
+    "nameEn": "Chilgok-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "칠곡군",
+    "type": ""
+  },
+  {
+    "id": "37380",
+    "name": "성주군",
+    "nameEn": "Seongju-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "성주군",
+    "type": ""
+  },
+  {
+    "id": "37370",
+    "name": "고령군",
+    "nameEn": "Goryeong-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "고령군",
+    "type": ""
+  },
+  {
+    "id": "37360",
+    "name": "청도군",
+    "nameEn": "Cheongdo-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "청도군",
+    "type": ""
+  },
+  {
+    "id": "37350",
+    "name": "영덕군",
+    "nameEn": "Yeongdeok-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "영덕군",
+    "type": ""
+  },
+  {
+    "id": "37340",
+    "name": "영양군",
+    "nameEn": "Yeongyang-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "영양군",
+    "type": ""
+  },
+  {
+    "id": "37330",
+    "name": "청송군",
+    "nameEn": "Cheongsong-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "청송군",
+    "type": ""
+  },
+  {
+    "id": "37320",
+    "name": "의성군",
+    "nameEn": "Uiseong-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "의성군",
+    "type": ""
+  },
+  {
+    "id": "37310",
+    "name": "군위군",
+    "nameEn": "Gunwi-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "군위군",
+    "type": ""
+  },
+  {
+    "id": "37100",
+    "name": "경산시",
+    "nameEn": "Gyeongsan-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "경산시",
+    "type": ""
+  },
+  {
+    "id": "37090",
+    "name": "문경시",
+    "nameEn": "Mungyeong-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "문경시",
+    "type": ""
+  },
+  {
+    "id": "37080",
+    "name": "상주시",
+    "nameEn": "Sangju-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "상주시",
+    "type": ""
+  },
+  {
+    "id": "37070",
+    "name": "영천시",
+    "nameEn": "Yeongcheon-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "영천시",
+    "type": ""
+  },
+  {
+    "id": "37060",
+    "name": "영주시",
+    "nameEn": "Yeongju-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "영주시",
+    "type": ""
+  },
+  {
+    "id": "37050",
+    "name": "구미시",
+    "nameEn": "Gumi-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "구미시",
+    "type": ""
+  },
+  {
+    "id": "37040",
+    "name": "안동시",
+    "nameEn": "Andong-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "안동시",
+    "type": ""
+  },
+  {
+    "id": "37030",
+    "name": "김천시",
+    "nameEn": "Gimcheon-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "김천시",
+    "type": ""
+  },
+  {
+    "id": "37020",
+    "name": "경주시",
+    "nameEn": "Gyeongju-si",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "불국사",
+    "type": "🏞"
+  },
+  {
+    "id": "37012",
+    "name": "북구",
+    "nameEn": "Buk-gu",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "북구",
+    "type": ""
+  },
+  {
+    "id": "37011",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "남구",
+    "type": ""
+  },
+  {
+    "id": "36480",
+    "name": "신안군",
+    "nameEn": "Sinan-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "신안군",
+    "type": ""
+  },
+  {
+    "id": "36470",
+    "name": "진도군",
+    "nameEn": "Jindo-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "진도군",
+    "type": ""
+  },
+  {
+    "id": "36460",
+    "name": "완도군",
+    "nameEn": "Wando-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "완도군",
+    "type": ""
+  },
+  {
+    "id": "36450",
+    "name": "장성군",
+    "nameEn": "Jangseong-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "장성군",
+    "type": ""
+  },
+  {
+    "id": "36440",
+    "name": "영광군",
+    "nameEn": "Yeonggwang-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "영광군",
+    "type": ""
+  },
+  {
+    "id": "36430",
+    "name": "함평군",
+    "nameEn": "Hampyeong-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "함평군",
+    "type": ""
+  },
+  {
+    "id": "36420",
+    "name": "무안군",
+    "nameEn": "Muan-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "무안군",
+    "type": ""
+  },
+  {
+    "id": "36410",
+    "name": "영암군",
+    "nameEn": "Yeongam-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "영암군",
+    "type": ""
+  },
+  {
+    "id": "36400",
+    "name": "해남군",
+    "nameEn": "Haenam-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "해남군",
+    "type": ""
+  },
+  {
+    "id": "36390",
+    "name": "강진군",
+    "nameEn": "Gangjin-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "강진군",
+    "type": ""
+  },
+  {
+    "id": "36380",
+    "name": "장흥군",
+    "nameEn": "Jangheung-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "장흥군",
+    "type": ""
+  },
+  {
+    "id": "36370",
+    "name": "화순군",
+    "nameEn": "Hwasun-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "화순군",
+    "type": ""
+  },
+  {
+    "id": "36360",
+    "name": "보성군",
+    "nameEn": "Boseong-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "보성군",
+    "type": ""
+  },
+  {
+    "id": "36350",
+    "name": "고흥군",
+    "nameEn": "Goheung-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "고흥군",
+    "type": ""
+  },
+  {
+    "id": "36330",
+    "name": "구례군",
+    "nameEn": "Gurye-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "구례군",
+    "type": ""
+  },
+  {
+    "id": "36320",
+    "name": "곡성군",
+    "nameEn": "Gokseong-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "곡성군",
+    "type": ""
+  },
+  {
+    "id": "36310",
+    "name": "담양군",
+    "nameEn": "Damyang-gun",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "담양군",
+    "type": ""
+  },
+  {
+    "id": "36060",
+    "name": "광양시",
+    "nameEn": "Gwangyang-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "광양시",
+    "type": ""
+  },
+  {
+    "id": "36040",
+    "name": "나주시",
+    "nameEn": "Naju-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "나주시",
+    "type": ""
+  },
+  {
+    "id": "36030",
+    "name": "순천시",
+    "nameEn": "Suncheon-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "순천시",
+    "type": ""
+  },
+  {
+    "id": "36020",
+    "name": "여수시",
+    "nameEn": "Yeosu-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "여수시",
+    "type": ""
+  },
+  {
+    "id": "36010",
+    "name": "목포시",
+    "nameEn": "Mokpo-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "목포시",
+    "type": ""
+  },
+  {
+    "id": "35380",
+    "name": "부안군",
+    "nameEn": "Buan-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "부안군",
+    "type": ""
+  },
+  {
+    "id": "35370",
+    "name": "고창군",
+    "nameEn": "Gochang-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "고창군",
+    "type": ""
+  },
+  {
+    "id": "35360",
+    "name": "순창군",
+    "nameEn": "Sunchang-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "순창군",
+    "type": ""
+  },
+  {
+    "id": "35350",
+    "name": "임실군",
+    "nameEn": "Imsil-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "임실군",
+    "type": ""
+  },
+  {
+    "id": "35340",
+    "name": "장수군",
+    "nameEn": "Jangsu-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "장수군",
+    "type": ""
+  },
+  {
+    "id": "35330",
+    "name": "무주군",
+    "nameEn": "Muju-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "무주군",
+    "type": ""
+  },
+  {
+    "id": "35320",
+    "name": "진안군",
+    "nameEn": "Jinan-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "진안군",
+    "type": ""
+  },
+  {
+    "id": "35310",
+    "name": "완주군",
+    "nameEn": "Wanju-gun",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "완주군",
+    "type": ""
+  },
+  {
+    "id": "35060",
+    "name": "김제시",
+    "nameEn": "Gimje-si",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "김제시",
+    "type": ""
+  },
+  {
+    "id": "35050",
+    "name": "남원시",
+    "nameEn": "Namwon-si",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "남원시",
+    "type": ""
+  },
+  {
+    "id": "35040",
+    "name": "정읍시",
+    "nameEn": "Jeongeup-si",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "정읍시",
+    "type": ""
+  },
+  {
+    "id": "35030",
+    "name": "익산시",
+    "nameEn": "Iksan-si",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "익산시",
+    "type": ""
+  },
+  {
+    "id": "35020",
+    "name": "군산시",
+    "nameEn": "Gunsan-si",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "군산시",
+    "type": ""
+  },
+  {
+    "id": "35012",
+    "name": "전주시덕진구",
+    "nameEn": "Jeonjusideokjingu",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "전주시덕진구",
+    "type": ""
+  },
+  {
+    "id": "35011",
+    "name": "전주시완산구",
+    "nameEn": "Jeonjusiwansangu",
+    "baseYear": "2012",
+    "groupId": "전라북도",
+    "groupName": "전라북도",
+    "placeName": "전주시완산구",
+    "type": ""
+  },
+  {
+    "id": "34380",
+    "name": "태안군",
+    "nameEn": "Taean-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "태안군",
+    "type": ""
+  },
+  {
+    "id": "34370",
+    "name": "예산군",
+    "nameEn": "Yesan-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "예산군",
+    "type": ""
+  },
+  {
+    "id": "34360",
+    "name": "홍성군",
+    "nameEn": "Hongseong-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "홍성군",
+    "type": ""
+  },
+  {
+    "id": "34350",
+    "name": "청양군",
+    "nameEn": "Cheongyang-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "청양군",
+    "type": ""
+  },
+  {
+    "id": "34340",
+    "name": "서천군",
+    "nameEn": "Seocheon-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "서천군",
+    "type": ""
+  },
+  {
+    "id": "34330",
+    "name": "부여군",
+    "nameEn": "Buyeo-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "부여군",
+    "type": ""
+  },
+  {
+    "id": "34310",
+    "name": "금산군",
+    "nameEn": "Geumsan-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "금산군",
+    "type": ""
+  },
+  {
+    "id": "34080",
+    "name": "당진시",
+    "nameEn": "Dangjinsi",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "당진시",
+    "type": ""
+  },
+  {
+    "id": "34070",
+    "name": "계룡시",
+    "nameEn": "Gyeryongsi",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "계룡시",
+    "type": ""
+  },
+  {
+    "id": "34060",
+    "name": "논산시",
+    "nameEn": "Nonsan-si",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "논산시",
+    "type": ""
+  },
+  {
+    "id": "34050",
+    "name": "서산시",
+    "nameEn": "Seosan-si",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "서산시",
+    "type": ""
+  },
+  {
+    "id": "34040",
+    "name": "아산시",
+    "nameEn": "Asan-si",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "아산시",
+    "type": ""
+  },
+  {
+    "id": "34030",
+    "name": "보령시",
+    "nameEn": "Boryeong-si",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "보령시",
+    "type": ""
+  },
+  {
+    "id": "34020",
+    "name": "공주시",
+    "nameEn": "Gongju-si",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "공주시",
+    "type": ""
+  },
+  {
+    "id": "34012",
+    "name": "천안시서북구",
+    "nameEn": "Cheonansiseobukgu",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "천안시서북구",
+    "type": ""
+  },
+  {
+    "id": "34011",
+    "name": "천안시동남구",
+    "nameEn": "Cheonansidongnamgu",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "천안시동남구",
+    "type": ""
+  },
+  {
+    "id": "33390",
+    "name": "증평군",
+    "nameEn": "Jeungpyeonggun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "증평군",
+    "type": ""
+  },
+  {
+    "id": "33380",
+    "name": "단양군",
+    "nameEn": "Danyang-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "단양군",
+    "type": ""
+  },
+  {
+    "id": "33370",
+    "name": "음성군",
+    "nameEn": "Eumseong-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "음성군",
+    "type": ""
+  },
+  {
+    "id": "33360",
+    "name": "괴산군",
+    "nameEn": "Goesan-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "괴산군",
+    "type": ""
+  },
+  {
+    "id": "33350",
+    "name": "진천군",
+    "nameEn": "Jincheon-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "진천군",
+    "type": ""
+  },
+  {
+    "id": "33340",
+    "name": "영동군",
+    "nameEn": "Yeongdong-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "영동군",
+    "type": ""
+  },
+  {
+    "id": "33330",
+    "name": "옥천군",
+    "nameEn": "Okcheon-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "옥천군",
+    "type": ""
+  },
+  {
+    "id": "33320",
+    "name": "보은군",
+    "nameEn": "Boeun-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "보은군",
+    "type": ""
+  },
+  {
+    "id": "33310",
+    "name": "청원군",
+    "nameEn": "Cheongwon-gun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "청원군",
+    "type": ""
+  },
+  {
+    "id": "33030",
+    "name": "제천시",
+    "nameEn": "Jecheon-si",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "제천시",
+    "type": ""
+  },
+  {
+    "id": "33020",
+    "name": "충주시",
+    "nameEn": "Chungju-si",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "충주시",
+    "type": ""
+  },
+  {
+    "id": "33012",
+    "name": "청주시흥덕구",
+    "nameEn": "Cheongjusiheungdeokgu",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "청주시흥덕구",
+    "type": ""
+  },
+  {
+    "id": "33011",
+    "name": "청주시상당구",
+    "nameEn": "Cheongjusisangdanggu",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "청주시상당구",
+    "type": ""
+  },
+  {
+    "id": "32410",
+    "name": "양양군",
+    "nameEn": "Yangyang-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "양양군",
+    "type": ""
+  },
+  {
+    "id": "32400",
+    "name": "고성군",
+    "nameEn": "Goseong-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "고성군",
+    "type": ""
+  },
+  {
+    "id": "32390",
+    "name": "인제군",
+    "nameEn": "Inje-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "인제군",
+    "type": ""
+  },
+  {
+    "id": "32380",
+    "name": "양구군",
+    "nameEn": "Yanggu-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "양구군",
+    "type": ""
+  },
+  {
+    "id": "32370",
+    "name": "화천군",
+    "nameEn": "Hwacheon-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "화천군",
+    "type": ""
+  },
+  {
+    "id": "32360",
+    "name": "철원군",
+    "nameEn": "Gongju-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "철원군",
+    "type": ""
+  },
+  {
+    "id": "32350",
+    "name": "정선군",
+    "nameEn": "Jeongseon-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "정선군",
+    "type": ""
+  },
+  {
+    "id": "32340",
+    "name": "평창군",
+    "nameEn": "Pyeongchang-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "평창군",
+    "type": ""
+  },
+  {
+    "id": "32330",
+    "name": "영월군",
+    "nameEn": "Yeongwol-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "영월군",
+    "type": ""
+  },
+  {
+    "id": "32320",
+    "name": "횡성군",
+    "nameEn": "Hoengseong-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "횡성군",
+    "type": ""
+  },
+  {
+    "id": "32310",
+    "name": "홍천군",
+    "nameEn": "Hongcheon-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "홍천군",
+    "type": ""
+  },
+  {
+    "id": "32070",
+    "name": "삼척시",
+    "nameEn": "Samcheok-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "삼척시",
+    "type": ""
+  },
+  {
+    "id": "32060",
+    "name": "속초시",
+    "nameEn": "Sokcho-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "속초시",
+    "type": ""
+  },
+  {
+    "id": "32050",
+    "name": "태백시",
+    "nameEn": "Taebaek-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "태백시",
+    "type": ""
+  },
+  {
+    "id": "32040",
+    "name": "동해시",
+    "nameEn": "Donghae-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "동해시",
+    "type": ""
+  },
+  {
+    "id": "32030",
+    "name": "강릉시",
+    "nameEn": "Gangneung-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "강릉시",
+    "type": ""
+  },
+  {
+    "id": "32020",
+    "name": "원주시",
+    "nameEn": "Wonju-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "원주시",
+    "type": ""
+  },
+  {
+    "id": "32010",
+    "name": "춘천시",
+    "nameEn": "Chuncheon-si",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "춘천시",
+    "type": ""
+  },
+  {
+    "id": "31380",
+    "name": "양평군",
+    "nameEn": "Yangpyeong-gun",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "양평군",
+    "type": ""
+  },
+  {
+    "id": "31370",
+    "name": "가평군",
+    "nameEn": "Gapyeong-gun",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "가평군",
+    "type": ""
+  },
+  {
+    "id": "31350",
+    "name": "연천군",
+    "nameEn": "Yeoncheon-gun",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "연천군",
+    "type": ""
+  },
+  {
+    "id": "31320",
+    "name": "여주군",
+    "nameEn": "Yeoju-gun",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "여주군",
+    "type": ""
+  },
+  {
+    "id": "31270",
+    "name": "포천시",
+    "nameEn": "Pocheonsi",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "산정호수",
+    "type": "🏞"
+  },
+  {
+    "id": "31260",
+    "name": "양주시",
+    "nameEn": "Yangjusi",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "양주시",
+    "type": ""
+  },
+  {
+    "id": "31250",
+    "name": "광주시",
+    "nameEn": "Gwangju",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "광주시",
+    "type": ""
+  },
+  {
+    "id": "31240",
+    "name": "화성시",
+    "nameEn": "Hwaseongsi",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "화성시",
+    "type": ""
+  },
+  {
+    "id": "31230",
+    "name": "김포시",
+    "nameEn": "Gimpo-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "김포시",
+    "type": ""
+  },
+  {
+    "id": "31220",
+    "name": "안성시",
+    "nameEn": "Anseong-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "안성시",
+    "type": ""
+  },
+  {
+    "id": "31210",
+    "name": "이천시",
+    "nameEn": "Icheon-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "이천시",
+    "type": ""
+  },
+  {
+    "id": "31200",
+    "name": "파주시",
+    "nameEn": "Paju-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "파주시",
+    "type": ""
+  },
+  {
+    "id": "31193",
+    "name": "용인시수지구",
+    "nameEn": "Yonginsisujigu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "용인시수지구",
+    "type": ""
+  },
+  {
+    "id": "31192",
+    "name": "용인시기흥구",
+    "nameEn": "Yonginsigiheunggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "용인시기흥구",
+    "type": ""
+  },
+  {
+    "id": "31191",
+    "name": "용인시처인구",
+    "nameEn": "Yonginsicheoingu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "🎢 에버랜드",
+    "type": ""
+  },
+  {
+    "id": "31180",
+    "name": "하남시",
+    "nameEn": "Hanam-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "하남시",
+    "type": ""
+  },
+  {
+    "id": "31170",
+    "name": "의왕시",
+    "nameEn": "Uiwang-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "의왕시",
+    "type": ""
+  },
+  {
+    "id": "31160",
+    "name": "군포시",
+    "nameEn": "Gunpo-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "군포시",
+    "type": ""
+  },
+  {
+    "id": "31150",
+    "name": "시흥시",
+    "nameEn": "Siheung-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "시흥시",
+    "type": ""
+  },
+  {
+    "id": "31140",
+    "name": "오산시",
+    "nameEn": "Osan-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "오산시",
+    "type": ""
+  },
+  {
+    "id": "31130",
+    "name": "남양주시",
+    "nameEn": "Namyangju-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "남양주시",
+    "type": ""
+  },
+  {
+    "id": "31120",
+    "name": "구리시",
+    "nameEn": "Guri-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "구리시",
+    "type": ""
+  },
+  {
+    "id": "31110",
+    "name": "과천시",
+    "nameEn": "Gwacheon-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "서울대공원",
+    "type": "🎡"
+  },
+  {
+    "id": "31104",
+    "name": "고양시일산서구",
+    "nameEn": "Goyangsiilsanseogu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "고양시일산서구",
+    "type": ""
+  },
+  {
+    "id": "31103",
+    "name": "고양시일산동구",
+    "nameEn": "Goyangsiilsandonggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "고양시일산동구",
+    "type": ""
+  },
+  {
+    "id": "31101",
+    "name": "고양시덕양구",
+    "nameEn": "Goyangsideogyanggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "고양시덕양구",
+    "type": ""
+  },
+  {
+    "id": "31092",
+    "name": "안산시단원구",
+    "nameEn": "Ansansidanwongu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "안산시단원구",
+    "type": ""
+  },
+  {
+    "id": "31091",
+    "name": "안산시상록구",
+    "nameEn": "Ansansisangnokgu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "안산시상록구",
+    "type": ""
+  },
+  {
+    "id": "31080",
+    "name": "동두천시",
+    "nameEn": "Dongducheon-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "동두천시",
+    "type": ""
+  },
+  {
+    "id": "31070",
+    "name": "평택시",
+    "nameEn": "Pyeongtaek-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "평택시",
+    "type": ""
+  },
+  {
+    "id": "31060",
+    "name": "광명시",
+    "nameEn": "Gwangmyeong-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "광명시",
+    "type": ""
+  },
+  {
+    "id": "31053",
+    "name": "부천시오정구",
+    "nameEn": "Bucheonsiojeonggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "부천시오정구",
+    "type": ""
+  },
+  {
+    "id": "31052",
+    "name": "부천시소사구",
+    "nameEn": "Bucheonsisosagu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "부천시소사구",
+    "type": ""
+  },
+  {
+    "id": "31051",
+    "name": "부천시원미구",
+    "nameEn": "Bucheonsiwonmigu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "부천시원미구",
+    "type": ""
+  },
+  {
+    "id": "31042",
+    "name": "안양시동안구",
+    "nameEn": "Anyangsidongangu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "안양시동안구",
+    "type": ""
+  },
+  {
+    "id": "31041",
+    "name": "안양시만안구",
+    "nameEn": "Anyangsimanangu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "안양시만안구",
+    "type": ""
+  },
+  {
+    "id": "31030",
+    "name": "의정부시",
+    "nameEn": "Uijeongbu-si",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "의정부시",
+    "type": ""
+  },
+  {
+    "id": "31023",
+    "name": "성남시분당구",
+    "nameEn": "Seongnamsibundanggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "성남시분당구",
+    "type": ""
+  },
+  {
+    "id": "31022",
+    "name": "성남시중원구",
+    "nameEn": "Seongnamsijungwongu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "성남시중원구",
+    "type": ""
+  },
+  {
+    "id": "31021",
+    "name": "성남시수정구",
+    "nameEn": "Seongnamsisujeonggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "성남시수정구",
+    "type": ""
+  },
+  {
+    "id": "31014",
+    "name": "수원시영통구",
+    "nameEn": "Suwonsiyeongtonggu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "수원시영통구",
+    "type": ""
+  },
+  {
+    "id": "31013",
+    "name": "수원시팔달구",
+    "nameEn": "Suwonsipaldalgu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "수원시팔달구",
+    "type": ""
+  },
+  {
+    "id": "31012",
+    "name": "수원시권선구",
+    "nameEn": "Suwonsigwonseongu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "수원시권선구",
+    "type": ""
+  },
+  {
+    "id": "31011",
+    "name": "수원시장안구",
+    "nameEn": "Suwonsijangangu",
+    "baseYear": "2012",
+    "groupId": "경기도",
+    "groupName": "경기도",
+    "placeName": "수원시장안구",
+    "type": ""
+  },
+  {
+    "id": "29010",
+    "name": "세종시",
+    "nameEn": "Sejongsi",
+    "baseYear": "2012",
+    "groupId": "세종특별자치시",
+    "groupName": "세종특별자치시",
+    "placeName": "세종시",
+    "type": ""
+  },
+  {
+    "id": "26310",
+    "name": "울주군",
+    "nameEn": "Ulju-gun",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "울주군",
+    "type": ""
+  },
+  {
+    "id": "26040",
+    "name": "북구",
+    "nameEn": "Buk-gu",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "북구",
+    "type": ""
+  },
+  {
+    "id": "26030",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "26020",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "남구",
+    "type": ""
+  },
+  {
+    "id": "26010",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "25050",
+    "name": "대덕구",
+    "nameEn": "Daedeok-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "대덕구",
+    "type": ""
+  },
+  {
+    "id": "25040",
+    "name": "유성구",
+    "nameEn": "Yuseong-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "유성구",
+    "type": ""
+  },
+  {
+    "id": "25030",
+    "name": "서구",
+    "nameEn": "Seo-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "서구",
+    "type": ""
+  },
+  {
+    "id": "25020",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "25010",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "24050",
+    "name": "광산구",
+    "nameEn": "Gwangsan-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "광산구",
+    "type": ""
+  },
+  {
+    "id": "24040",
+    "name": "북구",
+    "nameEn": "Buk-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "북구",
+    "type": ""
+  },
+  {
+    "id": "24030",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "남구",
+    "type": ""
+  },
+  {
+    "id": "24020",
+    "name": "서구",
+    "nameEn": "Seo-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "서구",
+    "type": ""
+  },
+  {
+    "id": "24010",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "23320",
+    "name": "옹진군",
+    "nameEn": "Ongjin-gun",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "옹진군",
+    "type": ""
+  },
+  {
+    "id": "23310",
+    "name": "강화군",
+    "nameEn": "Ganghwa-gun",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "강화군",
+    "type": ""
+  },
+  {
+    "id": "23080",
+    "name": "서구",
+    "nameEn": "Seo-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "서구",
+    "type": ""
+  },
+  {
+    "id": "23070",
+    "name": "계양구",
+    "nameEn": "Gyeyang-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "계양구",
+    "type": ""
+  },
+  {
+    "id": "23060",
+    "name": "부평구",
+    "nameEn": "Bupyeong-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "부평구",
+    "type": ""
+  },
+  {
+    "id": "23050",
+    "name": "남동구",
+    "nameEn": "Namdong-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "남동구",
+    "type": ""
+  },
+  {
+    "id": "23040",
+    "name": "연수구",
+    "nameEn": "Yeonsu-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "연수구",
+    "type": ""
+  },
+  {
+    "id": "23030",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "남구",
+    "type": ""
+  },
+  {
+    "id": "23020",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "23010",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "22310",
+    "name": "달성군",
+    "nameEn": "Dalseong-gun",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "달성군",
+    "type": ""
+  },
+  {
+    "id": "22070",
+    "name": "달서구",
+    "nameEn": "Dalseo-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "달서구",
+    "type": ""
+  },
+  {
+    "id": "22060",
+    "name": "수성구",
+    "nameEn": "Suseong-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "수성구",
+    "type": ""
+  },
+  {
+    "id": "22050",
+    "name": "북구",
+    "nameEn": "Buk-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "북구",
+    "type": ""
+  },
+  {
+    "id": "22040",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "남구",
+    "type": ""
+  },
+  {
+    "id": "22030",
+    "name": "서구",
+    "nameEn": "Seo-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "서구",
+    "type": ""
+  },
+  {
+    "id": "22020",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "22010",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "21310",
+    "name": "기장군",
+    "nameEn": "Gijang-gun",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "해동용궁사",
+    "type": "🏛"
+  },
+  {
+    "id": "21150",
+    "name": "사상구",
+    "nameEn": "Sasang-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "삼락생태공원",
+    "type": "🌳"
+  },
+  {
+    "id": "21140",
+    "name": "수영구",
+    "nameEn": "Suyeong-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "광안리 해수욕장",
+    "type": "🏖"
+  },
+  {
+    "id": "21130",
+    "name": "연제구",
+    "nameEn": "Yeonje-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "온천천",
+    "type": "🏞"
+  },
+  {
+    "id": "21120",
+    "name": "강서구",
+    "nameEn": "Gangseo-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "가덕도",
+    "type": "🏝"
+  },
+  {
+    "id": "21110",
+    "name": "금정구",
+    "nameEn": "Geumjeong-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "범어사",
+    "type": "🏛"
+  },
+  {
+    "id": "21100",
+    "name": "사하구",
+    "nameEn": "Saha-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "감천문화마을",
+    "type": "🏡 "
+  },
+  {
+    "id": "21080",
+    "name": "북구",
+    "nameEn": "Buk-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "화명수목원",
+    "type": "🌿 "
+  },
+  {
+    "id": "21070",
+    "name": "남구",
+    "nameEn": "Nam-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "오륙도",
+    "type": "🏝 "
+  },
+  {
+    "id": "21060",
+    "name": "동래구",
+    "nameEn": "Dongnae-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "만덕고개",
+    "type": "🌆 "
+  },
+  {
+    "id": "21050",
+    "name": "부산진구",
+    "nameEn": "Busanjin-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "부산시민공원",
+    "type": "🏞 "
+  },
+  {
+    "id": "21040",
+    "name": "영도구",
+    "nameEn": "Yeongdo-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "태종대",
+    "type": "🏞"
+  },
+  {
+    "id": "21030",
+    "name": "동구",
+    "nameEn": "Dong-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "동구",
+    "type": ""
+  },
+  {
+    "id": "21020",
+    "name": "서구",
+    "nameEn": "Seo-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "서구",
+    "type": ""
+  },
+  {
+    "id": "21010",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "11250",
+    "name": "강동구",
+    "nameEn": "Gangdong-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "강동구",
+    "type": ""
+  },
+  {
+    "id": "11230",
+    "name": "강남구",
+    "nameEn": "Gangnam-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "강남구",
+    "type": ""
+  },
+  {
+    "id": "11220",
+    "name": "서초구",
+    "nameEn": "Seocho-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "서초구",
+    "type": ""
+  },
+  {
+    "id": "11210",
+    "name": "관악구",
+    "nameEn": "Gwanak-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "서울대학교",
+    "type": "🏫"
+  },
+  {
+    "id": "11200",
+    "name": "동작구",
+    "nameEn": "Dongjak-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "동작구",
+    "type": ""
+  },
+  {
+    "id": "11190",
+    "name": "영등포구",
+    "nameEn": "Yeongdeungpo-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "영등포구",
+    "type": ""
+  },
+  {
+    "id": "11180",
+    "name": "금천구",
+    "nameEn": "Geumcheon-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "금천구",
+    "type": ""
+  },
+  {
+    "id": "11170",
+    "name": "구로구",
+    "nameEn": "Guro-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "구로구",
+    "type": ""
+  },
+  {
+    "id": "11160",
+    "name": "강서구",
+    "nameEn": "Gangseo-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "강서구",
+    "type": ""
+  },
+  {
+    "id": "11150",
+    "name": "양천구",
+    "nameEn": "Yangcheon-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "양천구",
+    "type": ""
+  },
+  {
+    "id": "11140",
+    "name": "마포구",
+    "nameEn": "Mapo-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "마포구",
+    "type": ""
+  },
+  {
+    "id": "11130",
+    "name": "서대문구",
+    "nameEn": "Seodaemun-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "서대문구",
+    "type": ""
+  },
+  {
+    "id": "11120",
+    "name": "은평구",
+    "nameEn": "Eunpyeong-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "은평구",
+    "type": ""
+  },
+  {
+    "id": "11110",
+    "name": "노원구",
+    "nameEn": "Nowon-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "노원구",
+    "type": ""
+  },
+  {
+    "id": "11100",
+    "name": "도봉구",
+    "nameEn": "Dobong-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "도봉구",
+    "type": ""
+  },
+  {
+    "id": "11090",
+    "name": "강북구",
+    "nameEn": "Gangbuk-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "강북구",
+    "type": ""
+  },
+  {
+    "id": "11080",
+    "name": "성북구",
+    "nameEn": "Seongbuk-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "성북구",
+    "type": ""
+  },
+  {
+    "id": "11070",
+    "name": "중랑구",
+    "nameEn": "Jungnang-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "중랑구",
+    "type": ""
+  },
+  {
+    "id": "11060",
+    "name": "동대문구",
+    "nameEn": "Dongdaemun-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "동대문구",
+    "type": ""
+  },
+  {
+    "id": "11050",
+    "name": "광진구",
+    "nameEn": "Gwangjin-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "어린이대공원",
+    "type": "🎠"
+  },
+  {
+    "id": "11040",
+    "name": "성동구",
+    "nameEn": "Seongdong-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "성동구",
+    "type": ""
+  },
+  {
+    "id": "11030",
+    "name": "용산구",
+    "nameEn": "Yongsan-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "남산",
+    "type": "⛰"
+  },
+  {
+    "id": "11020",
+    "name": "중구",
+    "nameEn": "Jung-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "중구",
+    "type": ""
+  },
+  {
+    "id": "11010",
+    "name": "종로구",
+    "nameEn": "Jongno-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "경복궁",
+    "type": "🏞"
+  }
+]
