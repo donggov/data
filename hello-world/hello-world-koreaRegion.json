@@ -46,8 +46,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "합천군",
-    "type": ""
+    "placeName": "해인사",
+    "type": "🏛"
   },
   {
     "id": "38390",
@@ -56,8 +56,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "거창군",
-    "type": ""
+    "placeName": "수승대",
+    "type": "🏞"
   },
   {
     "id": "38380",
@@ -66,8 +66,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "함양군",
-    "type": ""
+    "placeName": "덕유산",
+    "type": "⛰"
   },
   {
     "id": "38370",
@@ -76,8 +76,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "산청군",
-    "type": ""
+    "placeName": "지리산 천왕봉",
+    "type": "⛰"
   },
   {
     "id": "38360",
@@ -86,8 +86,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "하동군",
-    "type": ""
+    "placeName": "화개장터",
+    "type": "🥬"
   },
   {
     "id": "38350",
@@ -96,8 +96,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "남해군",
-    "type": ""
+    "placeName": "다랭이마을",
+    "type": "🏡"
   },
   {
     "id": "38340",
@@ -106,8 +106,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "고성군",
-    "type": ""
+    "placeName": "설악산 울산바위",
+    "type": "⛰"
   },
   {
     "id": "38330",
@@ -116,8 +116,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "창녕군",
-    "type": ""
+    "placeName": "화왕산",
+    "type": "⛰"
   },
   {
     "id": "38320",
@@ -646,8 +646,8 @@
     "baseYear": "2012",
     "groupId": "전라남도",
     "groupName": "전라남도",
-    "placeName": "구례군",
-    "type": ""
+    "placeName": "지리산 노고단",
+    "type": "⛰"
   },
   {
     "id": "36320",
@@ -776,8 +776,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "무주군",
-    "type": ""
+    "placeName": "덕유산 향적봉",
+    "type": "⛰"
   },
   {
     "id": "35320",
@@ -816,8 +816,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "남원시",
-    "type": ""
+    "placeName": "지리산 반야봉",
+    "type": "⛰"
   },
   {
     "id": "35040",
@@ -2396,8 +2396,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "은평구",
-    "type": ""
+    "placeName": "북한산",
+    "type": "⛰"
   },
   {
     "id": "11110",
@@ -2406,8 +2406,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "노원구",
-    "type": ""
+    "placeName": "경춘선숲길",
+    "type": "🌳"
   },
   {
     "id": "11100",
@@ -2416,8 +2416,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "도봉구",
-    "type": ""
+    "placeName": "도봉산",
+    "type": "⛰"
   },
   {
     "id": "11090",
@@ -2426,8 +2426,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "강북구",
-    "type": ""
+    "placeName": "우이동 먹거리마을",
+    "type": "🏡"
   },
   {
     "id": "11080",
@@ -2436,8 +2436,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "성북구",
-    "type": ""
+    "placeName": "월곡산",
+    "type": "⛰"
   },
   {
     "id": "11070",
