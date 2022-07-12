@@ -66,8 +66,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "덕유산",
-    "type": "⛰"
+    "placeName": "함양군",
+    "type": ""
   },
   {
     "id": "38370",
@@ -136,8 +136,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "의령군",
-    "type": ""
+    "placeName": "한우산",
+    "type": "⛰"
   },
   {
     "id": "38115",
@@ -146,8 +146,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "진해구",
-    "type": ""
+    "placeName": "진해해양공원",
+    "type": "🏞"
   },
   {
     "id": "38114",
@@ -196,8 +196,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "양산시",
-    "type": ""
+    "placeName": "순매원",
+    "type": "🌸"
   },
   {
     "id": "38090",
@@ -206,8 +206,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "거제시",
-    "type": ""
+    "placeName": "바람의언덕",
+    "type": "🏞"
   },
   {
     "id": "38080",
@@ -216,8 +216,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "밀양시",
-    "type": ""
+    "placeName": "영남루",
+    "type": "🏞"
   },
   {
     "id": "38070",
@@ -226,8 +226,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "김해시",
-    "type": ""
+    "placeName": "장유대청계곡",
+    "type": "🏞"
   },
   {
     "id": "38060",
@@ -246,8 +246,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "통영시",
-    "type": ""
+    "placeName": "욕지도",
+    "type": "🏞"
   },
   {
     "id": "38030",
@@ -256,8 +256,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "진주시",
-    "type": ""
+    "placeName": "진주성",
+    "type": "🏛"
   },
   {
     "id": "37430",
@@ -286,8 +286,8 @@
     "baseYear": "2012",
     "groupId": "경상북도",
     "groupName": "경상북도",
-    "placeName": "봉화군",
-    "type": ""
+    "placeName": "청량산",
+    "type": "⛰"
   },
   {
     "id": "37400",
@@ -296,8 +296,8 @@
     "baseYear": "2012",
     "groupId": "경상북도",
     "groupName": "경상북도",
-    "placeName": "예천군",
-    "type": ""
+    "placeName": "화룡포",
+    "type": "🏞"
   },
   {
     "id": "37390",
@@ -346,8 +346,8 @@
     "baseYear": "2012",
     "groupId": "경상북도",
     "groupName": "경상북도",
-    "placeName": "영덕군",
-    "type": ""
+    "placeName": "고래불해수욕장",
+    "type": "🏖"
   },
   {
     "id": "37340",
@@ -776,8 +776,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "덕유산 향적봉",
-    "type": "⛰"
+    "placeName": "무주군",
+    "type": ""
   },
   {
     "id": "35320",
@@ -2366,8 +2366,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "양천구",
-    "type": ""
+    "placeName": "서서울호수공원",
+    "type": "🏞"
   },
   {
     "id": "11140",
@@ -2376,8 +2376,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "마포구",
-    "type": ""
+    "placeName": "경의선숲길",
+    "type": "🏡"
   },
   {
     "id": "11130",
@@ -2386,8 +2386,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "서대문구",
-    "type": ""
+    "placeName": "독립문",
+    "type": "🏛"
   },
   {
     "id": "11120",
@@ -2446,8 +2446,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "중랑구",
-    "type": ""
+    "placeName": "용마산",
+    "type": "🌄"
   },
   {
     "id": "11060",
@@ -2456,8 +2456,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "동대문구",
-    "type": ""
+    "placeName": "홍릉숲",
+    "type": "🌳"
   },
   {
     "id": "11050",
@@ -2476,8 +2476,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "성동구",
-    "type": ""
+    "placeName": "서울숲",
+    "type": "🌳"
   },
   {
     "id": "11030",
@@ -2496,8 +2496,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "중구",
-    "type": ""
+    "placeName": "덕수궁",
+    "type": "🏛"
   },
   {
     "id": "11010",
