@@ -1,5 +1,35 @@
 [
   {
+    "id": "11240",
+    "name": "송파구",
+    "nameEn": "Songpa-gu",
+    "baseYear": "2012",
+    "groupId": "서울특별시",
+    "groupName": "서울특별시",
+    "placeName": "롯데월드",
+    "type": "🎠"
+  },
+  {
+    "id": "36030",
+    "name": "순천시",
+    "nameEn": "Suncheon-si",
+    "baseYear": "2012",
+    "groupId": "전라남도",
+    "groupName": "전라남도",
+    "placeName": "순천만습지",
+    "type": "🏞"
+  },
+  {
+    "id": "21090",
+    "name": "해운대구",
+    "nameEn": "Haeundae-gu",
+    "baseYear": "2012",
+    "groupId": "부산광역시",
+    "groupName": "부산광역시",
+    "placeName": "해운대",
+    "type": "🏖"
+  },
+  {
     "id": "39010",
     "name": "제주시",
     "nameEn": "Jeju-si",
@@ -18,26 +48,6 @@
     "groupName": "제주특별자치도",
     "placeName": "서귀포시",
     "type": "🏝"
-  },
-  {
-    "id": "11240",
-    "name": "송파구",
-    "nameEn": "Songpa-gu",
-    "baseYear": "2012",
-    "groupId": "서울특별시",
-    "groupName": "서울특별시",
-    "placeName": "롯데월드",
-    "type": "🎠"
-  },
-  {
-    "id": "21090",
-    "name": "해운대구",
-    "nameEn": "Haeundae-gu",
-    "baseYear": "2012",
-    "groupId": "부산광역시",
-    "groupName": "부산광역시",
-    "placeName": "해운대",
-    "type": "🏖"
   },
   {
     "id": "38400",
@@ -66,8 +76,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "함양군",
-    "type": ""
+    "placeName": "상림공원",
+    "type": "🌳"
   },
   {
     "id": "38370",
@@ -126,8 +136,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "함안군",
-    "type": ""
+    "placeName": "악양생태공원",
+    "type": "🌸"
   },
   {
     "id": "38310",
@@ -690,24 +700,14 @@
     "type": ""
   },
   {
-    "id": "36030",
-    "name": "순천시",
-    "nameEn": "Suncheon-si",
-    "baseYear": "2012",
-    "groupId": "전라남도",
-    "groupName": "전라남도",
-    "placeName": "순천시",
-    "type": ""
-  },
-  {
     "id": "36020",
     "name": "여수시",
     "nameEn": "Yeosu-si",
     "baseYear": "2012",
     "groupId": "전라남도",
     "groupName": "전라남도",
-    "placeName": "여수시",
-    "type": ""
+    "placeName": "오동도",
+    "type": "🏝"
   },
   {
     "id": "36010",
@@ -716,8 +716,8 @@
     "baseYear": "2012",
     "groupId": "전라남도",
     "groupName": "전라남도",
-    "placeName": "목포시",
-    "type": ""
+    "placeName": "평화광장",
+    "type": "🏞"
   },
   {
     "id": "35380",
@@ -726,8 +726,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "부안군",
-    "type": ""
+    "placeName": "채석강",
+    "type": "🏞"
   },
   {
     "id": "35370",
@@ -736,8 +736,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "고창군",
-    "type": ""
+    "placeName": "선운사",
+    "type": "🏛"
   },
   {
     "id": "35360",
@@ -746,8 +746,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "순창군",
-    "type": ""
+    "placeName": "강천산",
+    "type": "⛰"
   },
   {
     "id": "35350",
@@ -756,8 +756,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "임실군",
-    "type": ""
+    "placeName": "옥정호",
+    "type": "🏞"
   },
   {
     "id": "35340",
@@ -766,8 +766,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "장수군",
-    "type": ""
+    "placeName": "장안산",
+    "type": "⛰"
   },
   {
     "id": "35330",
@@ -776,8 +776,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "무주군",
-    "type": ""
+    "placeName": "덕유산",
+    "type": "🏔"
   },
   {
     "id": "35320",
@@ -786,8 +786,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "진안군",
-    "type": ""
+    "placeName": "마이산",
+    "type": "⛰"
   },
   {
     "id": "35310",
@@ -796,8 +796,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "완주군",
-    "type": ""
+    "placeName": "고산자연휴양림",
+    "type": "🏞"
   },
   {
     "id": "35060",
@@ -806,8 +806,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "김제시",
-    "type": ""
+    "placeName": "김제금산사",
+    "type": "🏛"
   },
   {
     "id": "35050",
@@ -826,8 +826,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "정읍시",
-    "type": ""
+    "placeName": "내장산",
+    "type": "⛰"
   },
   {
     "id": "35030",
@@ -836,8 +836,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "익산시",
-    "type": ""
+    "placeName": "미륵사지",
+    "type": "🏛"
   },
   {
     "id": "35020",
@@ -846,8 +846,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "군산시",
-    "type": ""
+    "placeName": "선유도",
+    "type": "🏝"
   },
   {
     "id": "35012",
@@ -856,8 +856,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "전주시덕진구",
-    "type": ""
+    "placeName": "전주덕진공원",
+    "type": "🌳"
   },
   {
     "id": "35011",
@@ -866,8 +866,8 @@
     "baseYear": "2012",
     "groupId": "전라북도",
     "groupName": "전라북도",
-    "placeName": "전주시완산구",
-    "type": ""
+    "placeName": "전주 한옥마을",
+    "type": "🏡"
   },
   {
     "id": "34380",
@@ -2246,8 +2246,8 @@
     "baseYear": "2012",
     "groupId": "부산광역시",
     "groupName": "부산광역시",
-    "placeName": "동구",
-    "type": ""
+    "placeName": "168계단",
+    "type": "🏞"
   },
   {
     "id": "21020",
@@ -2256,8 +2256,8 @@
     "baseYear": "2012",
     "groupId": "부산광역시",
     "groupName": "부산광역시",
-    "placeName": "서구",
-    "type": ""
+    "placeName": "송도해수욕장",
+    "type": "🏖"
   },
   {
     "id": "21010",
@@ -2266,8 +2266,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "중구",
-    "type": ""
+    "placeName": "청계천",
+    "type": "🏞"
   },
   {
     "id": "11250",
@@ -2276,8 +2276,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "강동구",
-    "type": ""
+    "placeName": "암사동 유적",
+    "type": "🏞"
   },
   {
     "id": "11230",
@@ -2286,8 +2286,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "강남구",
-    "type": ""
+    "placeName": "가로수길",
+    "type": "🌳"
   },
   {
     "id": "11220",
@@ -2296,8 +2296,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "서초구",
-    "type": ""
+    "placeName": "예술의전당",
+    "type": "🎶"
   },
   {
     "id": "11210",
@@ -2316,8 +2316,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "동작구",
-    "type": ""
+    "placeName": "보라매공원",
+    "type": "🌳"
   },
   {
     "id": "11190",
@@ -2326,8 +2326,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "영등포구",
-    "type": ""
+    "placeName": "여의도 한강공원",
+    "type": "🏞"
   },
   {
     "id": "11180",
@@ -2336,8 +2336,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "금천구",
-    "type": ""
+    "placeName": "호암늘솔길",
+    "type": "🌳"
   },
   {
     "id": "11170",
@@ -2346,8 +2346,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "구로구",
-    "type": ""
+    "placeName": "푸른수목원",
+    "type": "🌳"
   },
   {
     "id": "11160",
@@ -2356,8 +2356,8 @@
     "baseYear": "2012",
     "groupId": "서울특별시",
     "groupName": "서울특별시",
-    "placeName": "강서구",
-    "type": ""
+    "placeName": "서울식물원",
+    "type": "🌼"
   },
   {
     "id": "11150",
