@@ -40,6 +40,26 @@
     "type": "🏛"
   },
   {
+    "id": "37430",
+    "name": "울릉군",
+    "nameEn": "Ulleung-gun",
+    "baseYear": "2012",
+    "groupId": "경상북도",
+    "groupName": "경상북도",
+    "placeName": "울릉도",
+    "type": "🏝"
+  },
+  {
+    "id": "38390",
+    "name": "거창군",
+    "nameEn": "Geochang-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "수승대",
+    "type": "🏞"
+  },
+  {
     "id": "21090",
     "name": "해운대구",
     "nameEn": "Haeundae-gu",
@@ -68,16 +88,6 @@
     "groupName": "제주특별자치도",
     "placeName": "서귀포시",
     "type": "🏝"
-  },
-  {
-    "id": "38390",
-    "name": "거창군",
-    "nameEn": "Geochang-gun",
-    "baseYear": "2012",
-    "groupId": "경상남도",
-    "groupName": "경상남도",
-    "placeName": "수승대",
-    "type": "🏞"
   },
   {
     "id": "38380",
@@ -278,16 +288,6 @@
     "groupName": "경상남도",
     "placeName": "진주성",
     "type": "🏛"
-  },
-  {
-    "id": "37430",
-    "name": "울릉군",
-    "nameEn": "Ulleung-gun",
-    "baseYear": "2012",
-    "groupId": "경상북도",
-    "groupName": "경상북도",
-    "placeName": "울릉군",
-    "type": ""
   },
   {
     "id": "37420",
