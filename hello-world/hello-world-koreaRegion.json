@@ -30,6 +30,16 @@
     "type": "🏞"
   },
   {
+    "id": "38400",
+    "name": "합천군",
+    "nameEn": "Hapcheon-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "해인사",
+    "type": "🏛"
+  },
+  {
     "id": "21090",
     "name": "해운대구",
     "nameEn": "Haeundae-gu",
@@ -58,16 +68,6 @@
     "groupName": "제주특별자치도",
     "placeName": "서귀포시",
     "type": "🏝"
-  },
-  {
-    "id": "38400",
-    "name": "합천군",
-    "nameEn": "Hapcheon-gun",
-    "baseYear": "2012",
-    "groupId": "경상남도",
-    "groupName": "경상남도",
-    "placeName": "해인사",
-    "type": "🏛"
   },
   {
     "id": "38390",
@@ -256,8 +256,8 @@
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "사천시",
-    "type": ""
+    "placeName": "사천바다케이블카",
+    "type": "🏞"
   },
   {
     "id": "38050",
@@ -1166,8 +1166,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "양양군",
-    "type": ""
+    "placeName": "낙산사",
+    "type": "🏞"
   },
   {
     "id": "32400",
@@ -1176,8 +1176,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "고성군",
-    "type": ""
+    "placeName": "아야진해수욕장",
+    "type": "🏖"
   },
   {
     "id": "32390",
@@ -1186,8 +1186,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "인제군",
-    "type": ""
+    "placeName": "자작나무숲",
+    "type": "🌲"
   },
   {
     "id": "32380",
@@ -1196,8 +1196,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "양구군",
-    "type": ""
+    "placeName": "두타연",
+    "type": "🏞"
   },
   {
     "id": "32370",
@@ -1206,8 +1206,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "화천군",
-    "type": ""
+    "placeName": "조경철천문대",
+    "type": "⭐"
   },
   {
     "id": "32360",
@@ -1216,8 +1216,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "철원군",
-    "type": ""
+    "placeName": "고석정",
+    "type": "🏞"
   },
   {
     "id": "32350",
@@ -1316,8 +1316,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "강릉시",
-    "type": ""
+    "placeName": "경포대",
+    "type": "🏖"
   },
   {
     "id": "32020",
@@ -1326,8 +1326,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "원주시",
-    "type": ""
+    "placeName": "치악산",
+    "type": "⛰"
   },
   {
     "id": "32010",
