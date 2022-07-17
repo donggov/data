@@ -20,6 +20,26 @@
     "type": "🏞"
   },
   {
+    "id": "32410",
+    "name": "양양군",
+    "nameEn": "Yangyang-gun",
+    "baseYear": "2012",
+    "groupId": "강원도",
+    "groupName": "강원도",
+    "placeName": "낙산사",
+    "type": "🏞"
+  },
+  {
+    "id": "29010",
+    "name": "세종시",
+    "nameEn": "Sejongsi",
+    "baseYear": "2012",
+    "groupId": "세종특별자치시",
+    "groupName": "세종특별자치시",
+    "placeName": "세종호수공원",
+    "type": "🏞"
+  },
+  {
     "id": "35380",
     "name": "부안군",
     "nameEn": "Buan-gun",
@@ -1170,16 +1190,6 @@
     "type": ""
   },
   {
-    "id": "32410",
-    "name": "양양군",
-    "nameEn": "Yangyang-gun",
-    "baseYear": "2012",
-    "groupId": "강원도",
-    "groupName": "강원도",
-    "placeName": "낙산사",
-    "type": "🏞"
-  },
-  {
     "id": "32400",
     "name": "고성군",
     "nameEn": "Goseong-gun",
@@ -1236,8 +1246,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "정선군",
-    "type": ""
+    "placeName": "병방치스카이워크",
+    "type": "🏞"
   },
   {
     "id": "32340",
@@ -1246,8 +1256,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "평창군",
-    "type": ""
+    "placeName": "대관령양떼목장",
+    "type": "🐑"
   },
   {
     "id": "32330",
@@ -1256,8 +1266,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "영월군",
-    "type": ""
+    "placeName": "선돌",
+    "type": "⛰"
   },
   {
     "id": "32320",
@@ -1266,8 +1276,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "횡성군",
-    "type": ""
+    "placeName": "청태산자연휴양림",
+    "type": "🌳"
   },
   {
     "id": "32310",
@@ -1276,8 +1286,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "홍천군",
-    "type": ""
+    "placeName": "오션월드",
+    "type": "🎢"
   },
   {
     "id": "32070",
@@ -1286,8 +1296,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "삼척시",
-    "type": ""
+    "placeName": "장호항",
+    "type": "🛳"
   },
   {
     "id": "32060",
@@ -1296,8 +1306,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "속초시",
-    "type": ""
+    "placeName": "영금정",
+    "type": "🌅"
   },
   {
     "id": "32050",
@@ -1306,8 +1316,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "태백시",
-    "type": ""
+    "placeName": "태백산",
+    "type": "🏔"
   },
   {
     "id": "32040",
@@ -1316,8 +1326,8 @@
     "baseYear": "2012",
     "groupId": "강원도",
     "groupName": "강원도",
-    "placeName": "동해시",
-    "type": ""
+    "placeName": "추암촛대바위",
+    "type": "🌅"
   },
   {
     "id": "32030",
@@ -1778,16 +1788,6 @@
     "groupName": "경기도",
     "placeName": "수원화성",
     "type": "🏛"
-  },
-  {
-    "id": "29010",
-    "name": "세종시",
-    "nameEn": "Sejongsi",
-    "baseYear": "2012",
-    "groupId": "세종특별자치시",
-    "groupName": "세종특별자치시",
-    "placeName": "세종호수공원",
-    "type": "🏞"
   },
   {
     "id": "26310",
