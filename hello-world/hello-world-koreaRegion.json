@@ -20,6 +20,16 @@
     "type": "🏞"
   },
   {
+    "id": "23320",
+    "name": "옹진군",
+    "nameEn": "Ongjin-gun",
+    "baseYear": "2012",
+    "groupId": "인천광역시",
+    "groupName": "인천광역시",
+    "placeName": "자월도",
+    "type": "🏝"
+  },
+  {
     "id": "32410",
     "name": "양양군",
     "nameEn": "Yangyang-gun",
@@ -28,6 +38,46 @@
     "groupName": "강원도",
     "placeName": "낙산사",
     "type": "🏞"
+  },
+  {
+    "id": "25050",
+    "name": "대덕구",
+    "nameEn": "Daedeok-gu",
+    "baseYear": "2012",
+    "groupId": "대전광역시",
+    "groupName": "대전광역시",
+    "placeName": "대덕구",
+    "type": ""
+  },
+  {
+    "id": "22310",
+    "name": "달성군",
+    "nameEn": "Dalseong-gun",
+    "baseYear": "2012",
+    "groupId": "대구광역시",
+    "groupName": "대구광역시",
+    "placeName": "달성군",
+    "type": ""
+  },
+  {
+    "id": "33390",
+    "name": "증평군",
+    "nameEn": "Jeungpyeonggun",
+    "baseYear": "2012",
+    "groupId": "충청북도",
+    "groupName": "충청북도",
+    "placeName": "증평군",
+    "type": ""
+  },
+  {
+    "id": "34380",
+    "name": "태안군",
+    "nameEn": "Taean-gun",
+    "baseYear": "2012",
+    "groupId": "충청남도",
+    "groupName": "충청남도",
+    "placeName": "태안군",
+    "type": ""
   },
   {
     "id": "29010",
@@ -60,16 +110,6 @@
     "type": "🏞"
   },
   {
-    "id": "38400",
-    "name": "합천군",
-    "nameEn": "Hapcheon-gun",
-    "baseYear": "2012",
-    "groupId": "경상남도",
-    "groupName": "경상남도",
-    "placeName": "해인사",
-    "type": "🏛"
-  },
-  {
     "id": "37430",
     "name": "울릉군",
     "nameEn": "Ulleung-gun",
@@ -80,14 +120,34 @@
     "type": ""
   },
   {
-    "id": "38390",
-    "name": "거창군",
-    "nameEn": "Geochang-gun",
+    "id": "38400",
+    "name": "합천군",
+    "nameEn": "Hapcheon-gun",
     "baseYear": "2012",
     "groupId": "경상남도",
     "groupName": "경상남도",
-    "placeName": "수승대",
-    "type": "🏞"
+    "placeName": "해인사",
+    "type": "🏛"
+  },
+  {
+    "id": "26310",
+    "name": "울주군",
+    "nameEn": "Ulju-gun",
+    "baseYear": "2012",
+    "groupId": "울산광역시",
+    "groupName": "울산광역시",
+    "placeName": "울주군",
+    "type": ""
+  },
+  {
+    "id": "24050",
+    "name": "광산구",
+    "nameEn": "Gwangsan-gu",
+    "baseYear": "2012",
+    "groupId": "광주광역시",
+    "groupName": "광주광역시",
+    "placeName": "광산구",
+    "type": ""
   },
   {
     "id": "21090",
@@ -118,6 +178,16 @@
     "groupName": "제주특별자치도",
     "placeName": "서귀포시",
     "type": "🏝"
+  },
+  {
+    "id": "38390",
+    "name": "거창군",
+    "nameEn": "Geochang-gun",
+    "baseYear": "2012",
+    "groupId": "경상남도",
+    "groupName": "경상남도",
+    "placeName": "수승대",
+    "type": "🏞"
   },
   {
     "id": "38380",
@@ -900,16 +970,6 @@
     "type": "🏡"
   },
   {
-    "id": "34380",
-    "name": "태안군",
-    "nameEn": "Taean-gun",
-    "baseYear": "2012",
-    "groupId": "충청남도",
-    "groupName": "충청남도",
-    "placeName": "태안군",
-    "type": ""
-  },
-  {
     "id": "34370",
     "name": "예산군",
     "nameEn": "Yesan-gun",
@@ -1057,16 +1117,6 @@
     "groupId": "충청남도",
     "groupName": "충청남도",
     "placeName": "천안시동남구",
-    "type": ""
-  },
-  {
-    "id": "33390",
-    "name": "증평군",
-    "nameEn": "Jeungpyeonggun",
-    "baseYear": "2012",
-    "groupId": "충청북도",
-    "groupName": "충청북도",
-    "placeName": "증평군",
     "type": ""
   },
   {
@@ -1790,16 +1840,6 @@
     "type": "🏛"
   },
   {
-    "id": "26310",
-    "name": "울주군",
-    "nameEn": "Ulju-gun",
-    "baseYear": "2012",
-    "groupId": "울산광역시",
-    "groupName": "울산광역시",
-    "placeName": "울주군",
-    "type": ""
-  },
-  {
     "id": "26040",
     "name": "북구",
     "nameEn": "Buk-gu",
@@ -1837,16 +1877,6 @@
     "groupId": "울산광역시",
     "groupName": "울산광역시",
     "placeName": "중구",
-    "type": ""
-  },
-  {
-    "id": "25050",
-    "name": "대덕구",
-    "nameEn": "Daedeok-gu",
-    "baseYear": "2012",
-    "groupId": "대전광역시",
-    "groupName": "대전광역시",
-    "placeName": "대덕구",
     "type": ""
   },
   {
@@ -1890,16 +1920,6 @@
     "type": ""
   },
   {
-    "id": "24050",
-    "name": "광산구",
-    "nameEn": "Gwangsan-gu",
-    "baseYear": "2012",
-    "groupId": "광주광역시",
-    "groupName": "광주광역시",
-    "placeName": "광산구",
-    "type": ""
-  },
-  {
     "id": "24040",
     "name": "북구",
     "nameEn": "Buk-gu",
@@ -1940,24 +1960,14 @@
     "type": ""
   },
   {
-    "id": "23320",
-    "name": "옹진군",
-    "nameEn": "Ongjin-gun",
-    "baseYear": "2012",
-    "groupId": "인천광역시",
-    "groupName": "인천광역시",
-    "placeName": "옹진군",
-    "type": ""
-  },
-  {
     "id": "23310",
     "name": "강화군",
     "nameEn": "Ganghwa-gun",
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "강화군",
-    "type": ""
+    "placeName": "동막해변",
+    "type": "🏖"
   },
   {
     "id": "23080",
@@ -1966,8 +1976,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "서구",
-    "type": ""
+    "placeName": "청라호수공원",
+    "type": "🌳"
   },
   {
     "id": "23070",
@@ -1976,8 +1986,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "계양구",
-    "type": ""
+    "placeName": "계양산",
+    "type": "⛰"
   },
   {
     "id": "23060",
@@ -1986,8 +1996,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "부평구",
-    "type": ""
+    "placeName": "부평공원",
+    "type": "🌳"
   },
   {
     "id": "23050",
@@ -1996,8 +2006,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "남동구",
-    "type": ""
+    "placeName": "인천대공원",
+    "type": "🌳"
   },
   {
     "id": "23040",
@@ -2006,8 +2016,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "연수구",
-    "type": ""
+    "placeName": "송도 센트럴파크",
+    "type": "🏙"
   },
   {
     "id": "23030",
@@ -2016,8 +2026,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "남구",
-    "type": ""
+    "placeName": "문학산",
+    "type": "⛰"
   },
   {
     "id": "23020",
@@ -2026,8 +2036,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "동구",
-    "type": ""
+    "placeName": "수도국산 달동네박물관",
+    "type": "🏛"
   },
   {
     "id": "23010",
@@ -2036,18 +2046,8 @@
     "baseYear": "2012",
     "groupId": "인천광역시",
     "groupName": "인천광역시",
-    "placeName": "중구",
-    "type": ""
-  },
-  {
-    "id": "22310",
-    "name": "달성군",
-    "nameEn": "Dalseong-gun",
-    "baseYear": "2012",
-    "groupId": "대구광역시",
-    "groupName": "대구광역시",
-    "placeName": "달성군",
-    "type": ""
+    "placeName": "을왕리해수욕장",
+    "type": "🏖"
   },
   {
     "id": "22070",
